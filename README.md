@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Its-VrxxDev/Its-VrxxDev/blob/main/Images/vrxx-banner.png)
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me<img src=https://cdn3.emoji.gg/emojis/2586-purplecrown.gif></h2>
 
 ```python
 from typing import Tuple, List, Dict
@@ -11,7 +11,7 @@ class Vex:
 class Attributes(Vex):
     @property
     def contact(self) -> Tuple[str, str, str]:
-        discord  = "vexuwu"
+        discord  = "vrxx.py"
         telegram = "t.me/vrxx1337"
         youtube  = "vrxxsobad1337"
         email    = "vrxxdev@gmail.com"
