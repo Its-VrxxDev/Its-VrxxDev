@@ -37,4 +37,4 @@ class Attributes(Vex):
 	return langs, environnement
 ```
 
-<h2 align="center">Skills </h2><p align="center">  <a href="https://skillicons.dev">    <img src="https://skillicons.dev/icons?i=python,flask,selenium,linux,vscode,js,css,html" />  </a></p><p href="https://t.me/vrxx1337" align="center">    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-VrxxDev&theme=dark"></p><p href="https://discord.gg/vrxx.py" align="center">    <img alt="" src=https://lanyard.cnrad.dev/api/1133747380261486643/></p>
+<h2 align="center">Skills </h2><p align="center">  <a href="https://skillicons.dev">    <img src="https://skillicons.dev/icons?i=python,flask,selenium,linux,vscode,js,css,html" />  </a></p><p href="https://t.me/vrxx1337" align="center">    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-VrxxDev&theme=dark"></p><p href="https://discord.gg/vrxx.py" align="center">    <img alt="" src=https://lanyard.cnrad.dev/api/1133747380261486643?theme=dark&showDisplayName=true/></p>
