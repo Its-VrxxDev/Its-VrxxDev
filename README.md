@@ -21,7 +21,7 @@ class Attributes(Vex):
     @property
     def life(self) -> Tuple[List[str], int]:
         langs = ['VietNam', 'English']
-        age   = 16
+        age   = 17
 		
         return langs, age
 	
