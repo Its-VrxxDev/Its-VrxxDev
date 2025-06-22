@@ -15,13 +15,13 @@ class Attributes(Vex):
         telegram = "t.me/vrxx1337"
         youtube  = "vrxxsobad1337"
         email    = "vrxxdev@gmail.com"
-	    
-	    return discord, telegram, proton
+
+        return discord, telegram, proton
 
     @property
     def life(self) -> Tuple[List[str], int]:
         langs = ['VietNam', 'English']
-        age   = 17
+        age   = 18
 		
         return langs, age
 	
@@ -31,7 +31,7 @@ class Attributes(Vex):
             'expert'      : ['python'],
             'learning'    : ['java', 'js']
         }
-        environnement = ['vscode']
+        environnement = ['termux']
 
 	return langs, environnement
 ```
